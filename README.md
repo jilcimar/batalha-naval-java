@@ -3,6 +3,14 @@ O famoso jogo de tabuleiro desenvolvido utilizando Java.
 
 > Projeto da disciplina de Programação Orientada a Objetos (POO) do curso Técnico em Informática do IFRN.
 
+# Informações do jogo
+
+- Há um tabuleiro de 10x10, ou seja, 100 blocos.
+- Há 10 submarinos escondidos (um em cada bloco) e 6 barcos compostos de 2 partes cada.
+- O objetivo do jogo é descobrir onde estão essas embarcações e acertá-las.
+- A cada tiro na água o jogador perde 1 vida.
+- O jogo só acaba quando você descobrir 5 embarcações ou quando suas vidas na partida acabam.
+
 # Prints do jogo
 
 Tela inicial
